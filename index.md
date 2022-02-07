@@ -6,6 +6,7 @@
 
 [Unsere Ewige Reich](https://marxshady.itch.io/unsere-ewige-reich)
 <img src="https://img.itch.zone/aW1nLzcyOTYwNzUuanBn/original/Soyy8z.jpg"/>
+<br><br>This project was made during the course of my Unity education<br><b>THIS IS A PARODY GAME</b><br><br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
