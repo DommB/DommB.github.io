@@ -5,12 +5,13 @@
 ### Category Name 1 
 
 [Unsere Ewige Reich](https://marxshady.itch.io/unsere-ewige-reich)
-<img src="https://img.itch.zone/aW1nLzcyOTYwNzUuanBn/original/Soyy8z.jpg"/>
-<br><br>This project was made during the course of my Unity education<br><b>THIS IS A PARODY GAME!</b><br><br>
+<img src="https://img.itch.zone/aW1nLzcyOTYwNzUuanBn/original/Soyy8z.jpg?raw=true"/>
+<br><br>This project was made during the course of my Unity education.<br><b>THIS IS A PARODY GAME!</b><br><br>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Title](https://callmetoots.itch.io/let-there-be-photophobia)
+<img src="https://img.itch.zone/aW1nLzc2NTQ3NTEucG5n/original/B%2FV6Le.png?raw=true"/>
+<br><br>This project was made during the course of my Unity education. This was a five day-long team project where i worked as a programmer of game mechanics.<br><br>
 
 ---
 [Project 3 Title](http://example.com/)
