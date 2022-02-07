@@ -9,7 +9,7 @@
 <br><br>This project was made during the course of my Unity education.<br><b>THIS IS A PARODY GAME!</b><br><br>
 
 ---
-[Project 2 Title](https://callmetoots.itch.io/let-there-be-photophobia)
+[Let There Be Photophobia](https://callmetoots.itch.io/let-there-be-photophobia)
 <img src="https://img.itch.zone/aW1nLzc2NTQ3NTEucG5n/original/B%2FV6Le.png?raw=true"/>
 <br><br>This project was made during the course of my Unity education. This was a five day-long team project where i worked as a programmer of game mechanics.<br><br>
 
