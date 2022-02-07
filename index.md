@@ -2,22 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Games
 
 [Unsere Ewige Reich](https://marxshady.itch.io/unsere-ewige-reich)
-<img src="https://img.itch.zone/aW1nLzcyOTYwNzUuanBn/original/Soyy8z.jpg?raw=true"/>
 <br><br>This project was made during the course of my Unity education.<br><b>THIS IS A PARODY GAME!</b><br><br>
 
 ---
 [Let There Be Photophobia](https://callmetoots.itch.io/let-there-be-photophobia)
 <img src="https://img.itch.zone/aW1nLzc2NTQ3NTEucG5n/original/B%2FV6Le.png?raw=true"/>
-<br><br>This project was made during the course of my Unity education. This was a five day-long team project where i worked as a programmer of game mechanics.<br><br>
+<br><br>This five day-long team project was made during the course of my Unity education.<br>My work during this project included:
+- Coding
+- Designing and implementing stamina, stealth and enemy behavior mechanics
+- Prototyping<br><br>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Category Name 2
 
