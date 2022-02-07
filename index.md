@@ -5,7 +5,7 @@
 ### Games
 
 [Unsere Ewige Reich](https://marxshady.itch.io/unsere-ewige-reich)
-<br><br>This project was made during the course of my Unity education.<br><b>THIS IS A PARODY GAME!</b><br><br>
+<br><br>This three day-long solo project was made during the course of my Unity education.<br><b>THIS IS A PARODY GAME!</b><br><br>
 
 ---
 [Let There Be Photophobia](https://callmetoots.itch.io/let-there-be-photophobia)
