@@ -18,7 +18,7 @@ Grimblade (ongoing project)
 - Coding
 - Designing and implementing enemy AI and stats, player controls, game objectives, cinematics and combat systems
 - Prototyping
-- Conceptualisation of game mechanics, animations and user interface<br><br>
+- Conceptualization of game mechanics, animations and user interface<br><br>
 
 ---
 
