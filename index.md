@@ -13,6 +13,15 @@
 
 ---
 
+Grimblade (ongoing project)
+<br><br>Project started during the course of my Unity education with a team of six people. Currently work in progress, demo version coming soon with further work on it planned for another two year period before proper release.<br>My work during this project included:
+- Coding
+- Designing and implementing enemy AI and stats, player controls, game objectives, cinematics and combat systems
+- Prototyping
+- Conceptualisation of game mechanics, animations and user interface<br><br>
+
+---
+
 [Unsere Ewige Reich](https://marxshady.itch.io/unsere-ewige-reich)
 <br><br>This three day-long solo project was made during the course of my Unity education.<br><b>THIS IS A PARODY GAME!</b><br><br>
 
